@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ehab</h1>
-<h3 align="center">🚀 Software Engineer | Distributed Systems & Cloud Architecture</h3>
+<h3 align="center Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-e-a94808144/" target="_blank">
