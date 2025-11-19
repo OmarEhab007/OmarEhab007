@@ -12,9 +12,8 @@
 
 <br>
 
-### 👨‍💻 Summary
 <p align="center">
-I am a Software Engineer focused on **backend stability** and **system performance**. 
+I am a Software Engineer focused on backend stability and **system performance**. 
 <p>
 
 ---
