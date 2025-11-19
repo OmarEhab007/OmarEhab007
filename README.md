@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ehab</h1>
-<h3 align="center">🚀 Software Engineer | Distributed Systems & Cloud Architecture</h3>
+<h3 align="center">🚀 Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-ehab-a94808144/" target="_blank">
@@ -14,14 +14,9 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a Software Engineer focused on architecting **scalable, high-performance applications**. My expertise bridges the gap between complex **enterprise backend systems** (Java/Spring, Go) and **system-level optimization** (C++).
+I am a Software Engineer focused on architecting **scalable, high-performance applications**. My expertise bridges the gap between complex **enterprise backend systems** (Java/Spring, Node.js).
 
-I advocate for **clean architecture**, **microservices**, and **DevOps culture** to ensure robust and maintainable software delivery.
 
-- 🔭 **Current Focus:** Building resilient microservices and event-driven architectures.
-- 💡 **Core Competencies:** System Design, CI/CD Automation, Container Orchestration.
-- 🧠 **Interests:** Integrating ML pipelines into production environments.
-- 💬 **Ask me about:** Java Spring Ecosystem, Memory Management in C++, and Dockerizing Applications.
 
 ---
 
