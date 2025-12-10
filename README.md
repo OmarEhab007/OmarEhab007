@@ -50,11 +50,3 @@ I am a Software Engineer focused on backend stability and system performance.
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarEhab007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarEhab007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9" height="150" alt="languages graph" />
-</div>
