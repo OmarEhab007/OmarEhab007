@@ -10,7 +10,7 @@
 
 ### About
 
-Senior Software Engineer specializing in distributed systems, microservices. Focused on building scalable, reliable backend solutions and implementing DevOps best practices.
+Software Engineer specializing in distributed systems, microservices. Focused on building scalable, reliable backend solutions and implementing DevOps best practices.
 
 ---
 
