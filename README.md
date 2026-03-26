@@ -1,6 +1,6 @@
 ## Hi, I'm Omar Ehab 👋
 
-**Senior Software Engineer** specializing in building scalable backend systems.
+**Software Engineer** specializing in building scalable backend systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://omarehab007.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-e-a94808144/)
